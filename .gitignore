@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python caches and build artifacts
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
